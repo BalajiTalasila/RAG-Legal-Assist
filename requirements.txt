@@ -1,0 +1,12 @@
+pandas
+numpy
+nltk
+torch
+transformers
+sentence-transformers
+faiss-cpu
+chromadb
+pypdf2
+scikit-learn
+tqdm
+python-dotenv
