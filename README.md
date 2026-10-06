@@ -82,6 +82,7 @@ The resulting cleaned case records are stored in:
 
 ```text
 processed/clean_cases.csv
+```
 
 ## License
 This project is licensed under the MIT License.
