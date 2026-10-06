@@ -1,0 +1,38 @@
+{
+  "title": "RAG-LegalAssist: A Retrieval-Augmented Framework with Adaptive Hybrid Legal Chunking for High-Precision Legal Retrieval",
+  "version": "1.0.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "keywords": [
+    "Retrieval-Augmented Generation",
+    "RAG",
+    "Legal NLP",
+    "Legal Information Retrieval",
+    "Adaptive Hybrid Legal Chunking",
+    "AHLC",
+    "Legal Question Answering",
+    "FAISS",
+    "Large Language Models",
+    "European Court of Human Rights"
+  ],
+  "creators": [
+    {
+      "name": "Nethi, Sathwik",
+      "affiliation": "Amrita School of Computing, Amrita Vishwa Vidyapeetham, Chennai, India"
+    },
+    {
+      "name": "Voota, Koushik",
+      "affiliation": "Amrita School of Computing, Amrita Vishwa Vidyapeetham, Chennai, India"
+    },
+    {
+      "name": "Talasila, Balaji",
+      "affiliation": "Amrita School of Computing, Amrita Vishwa Vidyapeetham, Chennai, India"
+    },
+    {
+      "name": "Nallamilli, Lakshmi Jayanth Reddy",
+      "affiliation": "Amrita School of Computing, Amrita Vishwa Vidyapeetham, Chennai, India"
+    }
+  ]
+}
